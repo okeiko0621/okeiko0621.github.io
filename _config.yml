@@ -26,7 +26,8 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: 時雨（しぐれ）
+    twitter: 時
+  雨（しぐれ）
     github:  samarsault
     linkedIn: in/samarsault
     #dribbble: jekyll
